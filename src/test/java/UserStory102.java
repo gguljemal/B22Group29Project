@@ -6,6 +6,6 @@ public class UserStory102 {
     // so my team member can comment, review and approve or request for more changes
     // more changes added as request
     public static void main(String[] args) {
-        System.out.println("Test it");
+        System.out.println("Test it"); //Tested by Asuman 
     }
 }
